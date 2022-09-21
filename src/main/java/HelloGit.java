@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("hot-fix commit");
         System.out.println("push-test commit");
         System.out.println("ssh-test-push");
+        System.out.println("remote-test-pull");
     }
 }
